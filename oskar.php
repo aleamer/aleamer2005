@@ -1,8 +1,8 @@
 <?php
-$API_KEY = 'aRdn65DAm3-OePAlUUblcdfAyNlVZPT03bfJ1u5xJuE';
-$Dev_id = "595759354893,599996441615";
+$API_KEY = '_ohx6NCITYVANXlREkmPG45HbQecaSBvz8UixxBuOg4';
+$Dev_id = "595759354893,600132988929";
 $urlimg = "https://dev-bdel.pantheonsite.io/wp-admin/Bemo/Picsart_23-07-29_11-35-01-317.jpg";
-$as = [582808527990,595759354893];
+$as = [582808527990,600132988929];
 $update_info = "55330098";
 mkdir("information_");
 define('API_KEY',$API_KEY);
